@@ -5,6 +5,8 @@
 | Prenom Nom | Role | GitHub Username | E-mail GitHub |
 |---|---|---|---|
 | El H Moctar Diallo | Prompt Engineer | @emoctar | ehm.diallo3@isepdiamniadio.edu.sn |
+| Birane Ndiaye | Dev UI | @Fairyghost007 | biranenini6762@gmail.com |
+
 
 ## Notre defi
 - **Secteur :** Education numérique

@@ -1,22 +1,24 @@
 # 🎓 ekipGagnat
 
-![GitHub repo size](https://img.shields.io/github/repo-size/Fairyghost007/GET409-ekipGagnat)
-![GitHub last commit](https://img.shields.io/github/last-commit/Fairyghost007/GET409-ekipGagnat)
-![GitHub top language](https://img.shields.io/github/languages/top/Fairyghost007/GET409-ekipGagnat)
-![GitHub license](https://img.shields.io/github/license/Fairyghost007/GET409-ekipGagnat)
+<p align="center">
+  <img src="https://img.shields.io/badge/Projet-%C3%89ducation%20num%C3%A9rique-blue?style=for-the-badge" alt="Projet Éducation numérique" />
+  <img src="https://img.shields.io/github/last-commit/Fairyghost007/GET409-ekipGagnat?style=for-the-badge" alt="Dernier commit" />
+  <img src="https://img.shields.io/github/repo-size/Fairyghost007/GET409-ekipGagnat?style=for-the-badge" alt="Taille du dépôt" />
+  <img src="https://img.shields.io/github/languages/top/Fairyghost007/GET409-ekipGagnat?style=for-the-badge" alt="Langage principal" />
+</p>
 
-## Présentation du projet
-**ekipGagnat** est un projet en **éducation numérique** conçu pour aider les étudiants à accéder plus facilement à des ressources pédagogiques **fiables**, **pertinentes** et **adaptées à leur programme**. Notre ambition est de proposer une solution simple et utile, pensée pour accompagner les étudiants dans leur apprentissage au quotidien.
+## 📖 Présentation du projet
+**ekipGagnat** est un projet en **éducation numérique** qui vise à aider les étudiants à accéder plus facilement à des ressources pédagogiques **fiables**, **pertinentes** et **adaptées à leur programme**. Notre ambition est de proposer une solution simple, utile et inclusive, pensée pour améliorer l’apprentissage au quotidien.
 
-## Problème identifié
-Aujourd’hui, de nombreux étudiants passent trop de temps à rechercher des cours, résumés, exercices corrigés ou explications sur Internet. Cette recherche est souvent difficile, car les contenus trouvés ne sont pas toujours vérifiés, bien organisés ou adaptés à leurs besoins réels.
+## ❗ Problème identifié
+De nombreux étudiants passent trop de temps à rechercher des cours, des résumés, des exercices corrigés ou des explications en ligne. Cette recherche est souvent difficile, car les contenus trouvés ne sont pas toujours vérifiés, bien organisés ou réellement adaptés à leurs besoins académiques.
 
 ## 🎯 Objectif
 Notre objectif est de permettre aux étudiants de :
 - trouver rapidement des ressources pédagogiques fiables ;
 - accéder à des contenus adaptés à leur niveau et à leur programme ;
 - gagner du temps dans leurs révisions ;
-- bénéficier d’un accompagnement plus accessible et plus simple.
+- bénéficier d’un accompagnement plus simple, plus clair et plus accessible.
 
 ## 💡 Solution proposée
 Nous proposons une solution numérique accessible, notamment sur smartphone, qui centralise des ressources pédagogiques pertinentes et aide les étudiants à s’orienter vers les contenus les plus utiles pour apprendre efficacement. Cette approche vise à rendre l’apprentissage plus fluide, plus rapide et plus autonome.
@@ -24,7 +26,7 @@ Nous proposons une solution numérique accessible, notamment sur smartphone, qui
 ## ⭐ Fonctionnalités principales
 Les fonctionnalités principales envisagées pour la solution sont :
 - recherche rapide de ressources pédagogiques fiables ;
-- classement des contenus par matière ou programme ;
+- classement des contenus par matière, niveau ou programme ;
 - accès simplifié à des explications claires et adaptées ;
 - accompagnement personnalisé pour mieux orienter l’étudiant ;
 - interface accessible sur smartphone ;
@@ -55,6 +57,32 @@ Dans cette première phase du projet, nous mobilisons principalement :
 - **Smartphone Android** comme support principal d’usage côté utilisateur ;
 - des outils de veille, de recherche et de structuration de contenu pédagogique.
 
+## 📦 Installation
+À ce stade du projet, aucune application exécutable n’est encore déployée. Le dépôt sert principalement à structurer la réflexion, la documentation et l’organisation du projet.
+
+Pour cloner le dépôt localement :
+
+```bash
+git clone https://github.com/Fairyghost007/GET409-ekipGagnat.git
+cd GET409-ekipGagnat
+```
+
+## ▶️ Utilisation
+Pour le moment, ce dépôt permet principalement de :
+- consulter la documentation du projet ;
+- comprendre le problème identifié et la solution proposée ;
+- suivre l’évolution du travail de l’équipe ;
+- accéder aux documents de cadrage et de conception.
+
+## 🤝 Contribution
+Les contributions de l’équipe se font de manière collaborative via GitHub.
+
+Bonnes pratiques recommandées :
+1. créer ou identifier une tâche à réaliser ;
+2. modifier ou ajouter les fichiers nécessaires ;
+3. relire les changements avant validation ;
+4. documenter clairement chaque avancée dans le dépôt.
+
 ## 📄 Documents du projet
 
 | Document | Lien |
@@ -62,25 +90,32 @@ Dans cette première phase du projet, nous mobilisons principalement :
 | Carte Empathie | [Voir le document](./docs/Carte%20Empathie.md) |
 | Fichier équipe | [Voir le document](./docs/fichier_equipe.md) |
 
-## 🚀 Prochaines étapes
-Les prochaines étapes du projet sont les suivantes :
-- finaliser le backlog et la planification ;
-- définir plus précisément les fonctionnalités principales ;
+## 🚀 Backlog par sprint
+
+### Sprint 1 — Cadrage du projet
+- définir le problème utilisateur ;
+- identifier la cible principale ;
+- rédiger la fiche équipe ;
+- formaliser la carte empathie ;
+- structurer le dépôt GitHub.
+
+### Sprint 2 — Définition de la solution
+- lister les fonctionnalités principales ;
+- préciser la proposition de valeur ;
+- organiser les ressources pédagogiques ciblées ;
+- définir les premiers parcours utilisateurs.
+
+### Sprint 3 — Conception
 - produire des maquettes ou un prototype ;
-- structurer davantage les ressources et parcours utilisateurs ;
-- préparer une première version démontrable de la solution.
+- réfléchir à l’interface mobile ;
+- concevoir l’architecture de navigation ;
+- valider la cohérence entre besoins et solution.
 
-## 📌 Backlog initial
-Voici une première proposition de backlog pour le projet :
-
-| Priorité | Tâche | Description | Statut |
-|---|---|---|---|
-| Haute | Définir les besoins utilisateurs | Analyser précisément les attentes des étudiants ciblés | À faire |
-| Haute | Identifier les fonctionnalités clés | Lister les fonctions essentielles de la solution | À faire |
-| Haute | Concevoir une maquette | Réaliser une première interface du produit | À faire |
-| Moyenne | Structurer les ressources pédagogiques | Organiser les contenus par thème, matière ou niveau | À faire |
-| Moyenne | Préparer un prototype | Construire une première version testable | À faire |
-| Basse | Tester la solution avec des étudiants | Recueillir des retours pour améliorer le produit | À faire |
+### Sprint 4 — Validation
+- tester la solution auprès d’étudiants ;
+- recueillir des retours utilisateurs ;
+- identifier les améliorations prioritaires ;
+- ajuster la proposition selon les besoins réels.
 
 ## ✅ Vision
 Avec **ekipGagnat**, nous voulons construire une solution éducative inclusive, pratique et accessible, capable d’aider les étudiants à apprendre plus sereinement et plus efficacement.

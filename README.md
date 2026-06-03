@@ -6,6 +6,7 @@
 |---|---|---|---|
 | El H Moctar Diallo | Prompt Engineer | @emoctar | ehm.diallo3@isepdiamniadio.edu.sn |
 | Birane Ndiaye | Dev UI | @Fairyghost007 | biranenini6762@gmail.com |
+| Ibra S Fall | Mater Prompt | @ifall17 | ifall736@gmail.com |
 
 
 ## Notre defi

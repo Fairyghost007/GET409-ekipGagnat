@@ -6,8 +6,8 @@
 |---|---|---|---|
 | El H Moctar Diallo | Prompt Engineer | @emoctar | ehm.diallo3@isepdiamniadio.edu.sn |
 | Birane Ndiaye | Dev UI | @Fairyghost007 | biranenini6762@gmail.com |
-| Ibra S Fall | Master Prompt | @ifall17 | ifall736@gmail.com |
-| Aicha Ndong | product Manager | @aicha-glitch | aichandong2003@icloud.com |
+| Ibra S Fall | Prompt Master | @ifall17 | ifall736@gmail.com |
+| Aicha Ndong | Product Manager | @aicha-glitch | aichandong2003@icloud.com |
 
 
 ## Notre defi

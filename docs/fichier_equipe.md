@@ -17,7 +17,7 @@
 | Birane Ndiaye | Dev UI | @Fairyghost007 | biranenini6762@gmail.com |
 | Ibra S Fall | Prompt Master | @ifall17 | ifall736@gmail.com |
 | Aicha Ndong | Product Manager | @aicha-glitch | aichandong2003@icloud.com |
-| Sekou Diamanka | Responsable Impact | @sekouisco23-ai | sekouisco23@gmqil.com |
+| Sekou Diamanka | Responsable Impact | @sekouisco23-ai | sekouisco23@gmail.com |
 
 ## Notre défi
 
@@ -25,14 +25,15 @@
 
 **HMW :** Comment pourrions-nous aider les étudiants à identifier rapidement les ressources pédagogiques les plus fiables et adaptées à leur programme ?
 
-## Infrastructure S1
+## Avancement du projet
 
 - [x] Dépôt GitHub créé
-- [x] Fichier d'équipe initial créé
+- [x] Fiche équipe rédigée
 - [x] Carte empathie rédigée
-- [ ] README complété
-- [ ] Backlog / planification détaillée ajoutée
+- [x] README complété et amélioré
+- [x] Backlog initial ajouté
 - [ ] Prototype ou maquettes ajoutés
+- [ ] Démonstration de la solution préparée
 
 ## Répartition des tâches S1
 
@@ -43,4 +44,20 @@
 | Définition du défi et formulation du HMW | El H Moctar Diallo | Fait |
 | Formalisation de la carte empathie | Aicha Ndong | Fait |
 | Analyse de l'impact / besoins utilisateurs | Sekou Diamanka | En cours |
-| Mise à jour du README | Équipe | À faire |
+| Mise à jour du README | Équipe | Fait |
+
+## Prochain sprint
+
+Les priorités pour la prochaine étape sont :
+- concevoir des maquettes ou un prototype ;
+- préciser les fonctionnalités principales de la solution ;
+- organiser les parcours utilisateurs ;
+- préparer une première démonstration du projet.
+
+## Livrables attendus
+
+- un README professionnel et complet ;
+- une carte empathie validée ;
+- une fiche équipe mise à jour ;
+- un backlog structuré ;
+- des maquettes ou un prototype de la solution.

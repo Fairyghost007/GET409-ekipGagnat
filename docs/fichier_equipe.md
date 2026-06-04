@@ -43,7 +43,7 @@
 | Rédaction de la fiche équipe | Ibra S Fall | Fait |
 | Définition du défi et formulation du HMW | El H Moctar Diallo | Fait |
 | Formalisation de la carte empathie | Aicha Ndong | Fait |
-| Analyse de l'impact / besoins utilisateurs | Sekou Diamanka | En cours |
+| Analyse de l'impact / besoins utilisateurs | Sekou Diamanka | Fait |
 | Mise à jour du README | Équipe | Fait |
 
 ## Prochain sprint
